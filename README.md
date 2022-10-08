@@ -1,4 +1,4 @@
-# Hacktoberfest22
+# Hacktoberfest '22
 Submissions for Hacktoberfest-22
 
 This initiative has been taken up by GDSC-KIIT x iNeuron
@@ -10,14 +10,14 @@ This initiative has been taken up by GDSC-KIIT x iNeuron
 This repo accepts:
 
 1. Your original projects and ideas in any language
-2. DSA / ALgorithm codes
+2. DSA / Algorithm codes
 
 Read our CONTRIBUTING.md to understand the contribution guidelines.
 
 ## What do contributors get?
 
-As someone participating in Hacktoberfest, you will definitely get a tshirt from DIgital Ocean. But that's not all!
+As someone participating in Hacktoberfest, you will definitely get a tshirt from Digital Ocean. But that's not all!
 
-The top 3 contributors in the GDSC repos marked with the label "hacktoberfest" will receive custom printed merch from us and iNeuron. So, what are you wiating for? Bring your A game and start hacking.
+The top 3 contributors in the GDSC repos marked with the label "hacktoberfest" will receive custom printed merch from us and iNeuron. So, what are you wiating for? Bring your A game.
 
 Happy Hacking!
