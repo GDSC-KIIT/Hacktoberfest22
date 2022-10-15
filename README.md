@@ -14,10 +14,4 @@ This repo accepts:
 
 Read our CONTRIBUTING.md to understand the contribution guidelines.
 
-## What do contributors get?
-
-As someone participating in Hacktoberfest, you will definitely get a tshirt from Digital Ocean. But that's not all!
-
-The top 3 contributors in the GDSC repos marked with the label "hacktoberfest" will receive custom printed merch from us and iNeuron. So, what are you wiating for? Bring your A game.
-
 Happy Hacking!
